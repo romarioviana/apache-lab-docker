@@ -1,6 +1,9 @@
 # Pega imagem Ubuntu
 FROM ubuntu:20.04
 
+# Desabilitar interactive
+ENV DEBIAN_FRONTEND=noninteractive
+
 # Atualiza ubunto e instala o apache2
 RUN apt-get update && \
   apt-get -y install apache2
