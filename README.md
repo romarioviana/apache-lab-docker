@@ -8,5 +8,5 @@
 * Incialização do servidor web na inicialização da imagem.
 
 ## Informações da image
-* DockerHub https://hub.docker.com
-** Imagem: docker.io/dockeridjoseromario/apache-lab-docker
+DockerHub https://hub.docker.com
+* Imagem: docker.io/dockeridjoseromario/apache-lab-docker
